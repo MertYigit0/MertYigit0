@@ -3,8 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **QuickRecipes**
-
 - 🌱 I’m currently learning **Android development and UI/UX Design.**
 
 
